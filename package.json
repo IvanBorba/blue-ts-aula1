@@ -1,0 +1,10 @@
+{
+  "name": "sample_ts",
+  "version": "1.0.0",
+  "description": "Projeto exemplo de typescript",
+  "main": "index.js",
+  "author": "Ivan Borba",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
